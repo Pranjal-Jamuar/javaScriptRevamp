@@ -14,8 +14,8 @@ Welcome to my personal **JavaScript Practice Repository** — a dedicated space 
 - 🧪 **Hands-on DOM**  
   Event handling, DOM traversal, dynamic elements
 
-- 🚀 **Mini Projects**  
-  To-Do App, Calculator, Counter, etc.
+<!-- - 🚀 **Mini Projects**  
+  To-Do App, Calculator, Counter, etc.-->
 
 - 🆕 **Modern JS**  
   ES6+ features: Arrow functions, Destructuring, Spread/Rest, Promises, Async/Await
